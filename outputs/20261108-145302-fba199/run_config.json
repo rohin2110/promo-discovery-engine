@@ -1,0 +1,136 @@
+{
+  "run_id": "20261108-145302-fba199",
+  "created_at": "2026-11-08T09:35:47.073166+00:00",
+  "backend": "openai_compatible:gemini-3.1-flash-lite",
+  "prompt_version": "2026-11-08.1",
+  "uploads": [
+    {
+      "name": "I Married a Broken Soldier. He was a Duke-scripts (2).zip",
+      "bytes": 540294
+    }
+  ],
+  "scoring_config": {
+    "min_duration_seconds": 20.0,
+    "max_duration_seconds": 60.0,
+    "target_duration_seconds": 35.0,
+    "hook_window_seconds": 3.0,
+    "cliffhanger_window_seconds": 5.0,
+    "weights": {
+      "hook": 35.0,
+      "cliffhanger": 35.0,
+      "context": 20.0,
+      "pacing": 10.0
+    },
+    "minimum_scores": {
+      "hook": 18.0,
+      "cliffhanger": 18.0,
+      "context": 10.0,
+      "pacing": 0,
+      "total": 60.0
+    },
+    "allow_multiple_segments": true,
+    "allow_cross_episode_segments": true,
+    "max_segments_per_promo": 3,
+    "prefer_continuous_segments": true,
+    "remove_near_duplicates": true,
+    "top_k_recommendations": 10,
+    "candidates_per_episode": 3,
+    "min_segment_seconds": 3.0,
+    "generation_repair_attempts": 2,
+    "evaluation_retry_attempts": 1,
+    "cross_episode_max_windows": 8,
+    "cross_episode_max_episode_gap": 1,
+    "cross_episode_candidates_per_window": 1,
+    "cross_episode_require_shared_character": true,
+    "multi_segment_penalty": 2.0,
+    "cross_episode_penalty": 2.0,
+    "near_duplicate_overlap_threshold": 0.5,
+    "min_confidence_for_auto_accept": 0.5,
+    "failure_case_strong_ratio": 0.7,
+    "failure_case_weak_ratio": 0.5
+  },
+  "llm_settings": {
+    "provider": "openai_compatible",
+    "model": "gemini-3.1-flash-lite",
+    "api_base": "https://generativelanguage.googleapis.com/v1beta/openai",
+    "temperature": 0.1,
+    "max_tokens": 4096,
+    "timeout": 120.0,
+    "max_retries": 5,
+    "seed": 42,
+    "response_format": "json_object",
+    "structured_output": true,
+    "save_raw_responses": true,
+    "concurrency": 2,
+    "context_window": 16384,
+    "extra_body": {},
+    "api_key_set": true
+  },
+  "app_config": {
+    "max_upload_mb": 200.0,
+    "max_file_mb": 25.0,
+    "max_files": 5000,
+    "max_total_uncompressed_mb": 500.0,
+    "max_zip_depth": 3,
+    "max_compression_ratio": 200.0,
+    "frames_per_second": null,
+    "scene_bounds_tolerance_seconds": 0.5,
+    "output_dir": "outputs",
+    "raw_output_dir": "raw_outputs",
+    "feedback_path": "feedback/reviewer_feedback.jsonl",
+    "field_mapping": {
+      "episode": [
+        "episode_id",
+        "episode",
+        "episode_number",
+        "episode_no",
+        "ep",
+        "episode_title"
+      ],
+      "scene": [
+        "scene_id",
+        "scene",
+        "scene_number",
+        "scene_heading"
+      ],
+      "event_type": [
+        "event_type",
+        "type",
+        "kind",
+        "block_type"
+      ],
+      "speaker": [
+        "speaker",
+        "character",
+        "name",
+        "role"
+      ],
+      "text": [
+        "text",
+        "line",
+        "dialogue",
+        "content",
+        "description",
+        "action"
+      ],
+      "start": [
+        "start_timestamp",
+        "start",
+        "start_time",
+        "in",
+        "timecode_in",
+        "start_seconds"
+      ],
+      "end": [
+        "end_timestamp",
+        "end",
+        "end_time",
+        "out",
+        "timecode_out",
+        "end_seconds"
+      ]
+    }
+  },
+  "python": "3.13.9",
+  "elapsed_seconds": 764.11
+}

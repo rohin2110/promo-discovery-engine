@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+outputs/*
+!outputs/.gitkeep
+raw_outputs/*
+!raw_outputs/.gitkeep
+feedback/*.jsonl
+.DS_Store

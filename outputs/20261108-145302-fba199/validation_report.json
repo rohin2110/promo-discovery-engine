@@ -1,0 +1,4142 @@
+{
+  "summary": {
+    "candidates": 159,
+    "timestamps_invalid": 0,
+    "duration_invalid": 44,
+    "source_unverified": 0,
+    "evidence_unverified": 0,
+    "rejected": 44,
+    "duplicates": 11
+  },
+  "candidates": [
+    {
+      "promo_id": "PROMO_089",
+      "title": "The Price of Pride",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_104",
+      "title": "The Betrayal Revealed",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_006",
+      "title": "The Public Humiliation",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_008",
+      "title": "Discarded Daughter",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_043",
+      "title": "Defiance in the Mud",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_067",
+      "title": "Deadly Diagnosis",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_075",
+      "title": "The Poisoned Accusation",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_079",
+      "title": "Sentenced to the Gallows",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_124",
+      "title": "The Duke Returns",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_014",
+      "title": "The Disowned Bride",
+      "status": "recommended",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_033",
+      "title": "The Accusation",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_034",
+      "title": "The Sadistic Ultimatum",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_099",
+      "title": "The Final Verdict",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_076",
+      "title": "The Duchess's Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_068",
+      "title": "The Healer's Secret",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cut skips 30.6s of EP024 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_128",
+      "title": "The Rejected Duchess",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_103",
+      "title": "The Dead Duke Returns",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_066",
+      "title": "The Poisoned Duchess",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 has 6.5s without dialogue or action (88.00-94.50s)",
+        "segment 1 has 7.5s without dialogue or action (100.00-107.50s)",
+        "segment 1 has 6.8s without dialogue or action (112.00-118.80s)",
+        "segment 1 ends with 7.5s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_122",
+      "title": "The Return of the Duke",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_130",
+      "title": "The Duchess Unmasked",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_157",
+      "title": "The Duke's Vengeance",
+      "status": "ranked",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "characters present in every segment: ['alexander', 'blond', 'nobleman', 'rupert']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut jumps from EP042 to EP043"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_119",
+      "title": "The Wedding Interrupted",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_011",
+      "title": "The Price of Dignity",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_069",
+      "title": "The Servant's Defiance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_070",
+      "title": "A Dangerous Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_133",
+      "title": "Ten Days to Save a Marriage",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_002",
+      "title": "The Ultimate Betrayal",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_062",
+      "title": "The Healer's Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_135",
+      "title": "The Scullery Maid's Penance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_116",
+      "title": "The Execution Plot",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cut skips 31.8s of EP040 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_001",
+      "title": "Discarded at the Altar",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_009",
+      "title": "The Stranger's Proposal",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_020",
+      "title": "Dignity in the Mud",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_035",
+      "title": "Framed for Theft",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_036",
+      "title": "The Price of Freedom",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_060",
+      "title": "The Fallen Healer",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_064",
+      "title": "The Maid's Secret Mission",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_094",
+      "title": "The Coerced Testimony",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_095",
+      "title": "The Fabricated Witchcraft",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_131",
+      "title": "The Duke's Vengeance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_088",
+      "title": "A Capital Charge",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cut skips 31.7s of EP030 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_097",
+      "title": "The Witchcraft Trial",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_071",
+      "title": "The Poisoned Duchess",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_083",
+      "title": "The Unbreakable Mother",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_084",
+      "title": "The Witchcraft Frame-Up",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_092",
+      "title": "The Price of Power",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_030",
+      "title": "The Wounded Veteran",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "segment 1 has 10.1s without dialogue or action (28.00-38.10s)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_118",
+      "title": "The Disgraced Bride's Defiance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "segment 1 has 6.8s without dialogue or action (20.00-26.80s)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_137",
+      "title": "The Ten-Day Trap",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_132",
+      "title": "The Marriage on Trial",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cut skips 26.4s of EP046 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_074",
+      "title": "Poisoned in the Dark",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "segment 1 has 7.1s without dialogue or action (66.70-73.80s)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_059",
+      "title": "The Usurpers' Ambition",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_063",
+      "title": "The Dying Duchess",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_090",
+      "title": "Dungeon Confrontation",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_142",
+      "title": "The Price of Discretion",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_012",
+      "title": "The Discarded Bride's Vow",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cut skips 27.0s of EP004 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_073",
+      "title": "The Hidden Heirloom",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_077",
+      "title": "The Duchess's Accusation",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_091",
+      "title": "The Unbreakable Prisoner",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_037",
+      "title": "A Bloody Discovery",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 ends with 6.9s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_015",
+      "title": "The Ledger in the Mud",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_065",
+      "title": "The Forbidden West Wing",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_096",
+      "title": "The Price of Survival",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_108",
+      "title": "The Wedding Bells of Doom",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_113",
+      "title": "The Silent Strike",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_123",
+      "title": "The Rightful Heir",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_102",
+      "title": "The Escape",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "segment 2 has 6.2s without dialogue or action (30.80-37.00s)",
+        "cut skips 3.8s of EP035 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_004",
+      "title": "The Unyielding Indictment",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_100",
+      "title": "The Ghost of Ashwood",
+      "status": "ranked",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 2 ends with 7.5s without dialogue or action",
+        "cut skips 71.0s of EP035 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_153",
+      "title": "The Witchcraft Conspiracy",
+      "status": "ranked",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "evaluator judged the cross-episode combination incoherent"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "cross-episode connection not supported by shared characters/episode proximity"
+      ],
+      "failure_cases": [
+        "incoherent_cross_episode"
+      ],
+      "deterministic_notes": [
+        "continuity notes of the later episode reference the earlier one",
+        "at least one cut joins segments that share no character",
+        "cut jumps from EP030 to EP031"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_005",
+      "title": "Betrayed by Family",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_027",
+      "title": "The Ghost of the Duke",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_040",
+      "title": "The Price of Freedom",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_112",
+      "title": "The Duke Returns",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_134",
+      "title": "A Vow Against the Council",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_056",
+      "title": "The Usurper's Shadow",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_140",
+      "title": "The Treasonous Pact",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_045",
+      "title": "The Soldier's Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_046",
+      "title": "The Mastermind Revealed",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_061",
+      "title": "The Price of Power",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_111",
+      "title": "Taking Back Everything",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_138",
+      "title": "The Secret Alliance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_049",
+      "title": "The Protector's Vow",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_055",
+      "title": "Vengeance Awakens",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 has 6.3s without dialogue or action (165.50-171.80s)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_107",
+      "title": "The Execution Clause",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 ends with 8.5s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_098",
+      "title": "Betrayal in the Courtroom",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_054",
+      "title": "Escape from the Inferno",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_028",
+      "title": "The Forbidden Cure",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 17.5 below minimum 18"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_057",
+      "title": "Ruins and Resilience",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_019",
+      "title": "The Silent Protector",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_053",
+      "title": "The Burning Vow",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [
+        "hook window contains no dialogue or action (camera/sound only)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_101",
+      "title": "Betrayed by the Crown",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "hook score 17.5 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_105",
+      "title": "The Price of Defiance",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "hook score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "hook window contains no dialogue or action (camera/sound only)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_106",
+      "title": "A Feast for the Wicked",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 17.5 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_032",
+      "title": "The Planted Evidence",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 ends with 6.2s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_018",
+      "title": "A New Beginning",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 7.0 below minimum 18"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_109",
+      "title": "The Prisoner's Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_017",
+      "title": "The Ruined Life",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 17.5 below minimum 18",
+        "total score 59.5 below minimum 60"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_031",
+      "title": "Medicine of the Heart",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 58.5 below minimum 60"
+      ],
+      "warnings": [],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 ends with 8.1s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_044",
+      "title": "Haunted by the Past",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 14.0 below minimum 18",
+        "total score 57.0 below minimum 60"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_021",
+      "title": "The Soldier's Secret",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 55.0 below minimum 60"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 2)"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_050",
+      "title": "Confessions by the Hearth",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 53.5 below minimum 60"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_022",
+      "title": "Healing the Scars of War",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "hook score 14.0 below minimum 18",
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 44.5 below minimum 60"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 2)"
+      ],
+      "failure_cases": [],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_058",
+      "title": "The Vow to Begin Again",
+      "status": "ranked",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "hook score 7.0 below minimum 18",
+        "cliffhanger score 17.5 below minimum 18",
+        "total score 43.5 below minimum 60"
+      ],
+      "warnings": [],
+      "failure_cases": [],
+      "deterministic_notes": [
+        "hook window contains no dialogue or action (camera/sound only)",
+        "cliffhanger window contains no dialogue or action (camera/sound only)",
+        "segment 1 has 7.7s without dialogue or action (89.50-97.20s)",
+        "segment 1 ends with 7.1s without dialogue or action"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_003",
+      "title": "The Ultimate Betrayal",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 7.40s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 7.40s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_007",
+      "title": "The Public Humiliation",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 12.00s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 12.00s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_010",
+      "title": "The Stranger's Proposal",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 75.85s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 75.85s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_013",
+      "title": "The Discarded Bride's Vow",
+      "status": "rejected",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 18.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 18.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_016",
+      "title": "A Dangerous Protector",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.50s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.50s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_023",
+      "title": "The Soldier's Secret",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 7.00s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 7.00s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_024",
+      "title": "Healing the Scars of War",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 7.10s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 7.10s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_025",
+      "title": "The Soldier's Secret",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "sent back for repair (attempt 2)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_026",
+      "title": "Healing the Scars of War",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 14.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 14.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "sent back for repair (attempt 2)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_029",
+      "title": "The Forbidden Cure",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 81.80s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 81.80s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_038",
+      "title": "The Price of Freedom",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 13.00s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 13.00s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_039",
+      "title": "A Bloody Discovery",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 15.88s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 15.88s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_041",
+      "title": "A Vow of Vengeance",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 11.63s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 11.63s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_042",
+      "title": "The Garden's Defender",
+      "status": "duplicate",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "near-duplicate of PROMO_043 (57% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_047",
+      "title": "The Soldier's Secret",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 13.90s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 13.90s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_048",
+      "title": "The Mastermind Revealed",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 13.60s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 13.60s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_051",
+      "title": "Confessions by the Hearth",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 17.00s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 17.00s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_052",
+      "title": "The Mystery of the Man I Married",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.50s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.50s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_072",
+      "title": "The Poisoned Duchess",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 66.20s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 66.20s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_078",
+      "title": "The Noble Identity Revealed",
+      "status": "duplicate",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "hook score 14.0 below minimum 18"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_079 (68% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_080",
+      "title": "The Duchess's Accusation",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.60s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.60s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_081",
+      "title": "The Noble Identity Revealed",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 14.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 14.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_082",
+      "title": "Sentenced to the Gallows",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 16.50s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 16.50s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_085",
+      "title": "The Witchcraft Frame-Up",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 18.80s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 18.80s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_086",
+      "title": "A Penniless Veteran's Worth",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 13.20s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 13.20s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_087",
+      "title": "The Witchcraft Trap",
+      "status": "duplicate",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "near-duplicate of PROMO_153 (61% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [
+        "cut skips 38.3s of EP030 between segments",
+        "cut skips 51.1s of EP030 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_093",
+      "title": "The Final Strike",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 13.98s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 13.98s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_110",
+      "title": "The Prisoner's Secret",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 15.70s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 15.70s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_114",
+      "title": "The Duke Returns",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 18.50s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 18.50s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_115",
+      "title": "The Silent Strike",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.60s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.60s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_117",
+      "title": "The Wedding Trap",
+      "status": "rejected",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 18.70s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 18.70s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_120",
+      "title": "The Disgraced Bride's Revenge",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 78.59s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 78.59s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_121",
+      "title": "The Wedding Explosion",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 15.09s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 15.09s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_125",
+      "title": "The Traitor Exposed",
+      "status": "duplicate",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_157 (56% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_126",
+      "title": "The Traitor Exposed",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 17.60s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 17.60s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_127",
+      "title": "No Escape",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 15.16s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 15.16s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_129",
+      "title": "The Crown's Justice",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 19.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 19.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_136",
+      "title": "The Scullery Maid's Penance",
+      "status": "rejected",
+      "origin": "multi_segment_same_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 69.10s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 69.10s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_139",
+      "title": "Shadows of the Council",
+      "status": "duplicate",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "near-duplicate of PROMO_140 (51% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_141",
+      "title": "The Treasonous Pact",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 72.15s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 72.15s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_143",
+      "title": "The Price of Discretion",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 63.20s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 63.20s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_144",
+      "title": "The Rejected Bride's Vengeance",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_009 (64% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['former', 'gerald', 'groom', 'juliana']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut jumps from EP002 to EP003"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_145",
+      "title": "The Rejected Bride's Vengeance",
+      "status": "rejected",
+      "origin": "single_segment",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "segment 1: only 2.50s long (minimum segment length 3s)",
+          "total duration 79.75s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "segment 1: only 2.50s long (minimum segment length 3s)",
+        "total duration 79.75s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_146",
+      "title": "The Poisoner's Trap",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "evaluator judged the cross-episode combination incoherent"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 2)",
+        "near-duplicate of PROMO_075 (60% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment",
+        "incoherent_cross_episode"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['catherine', 'juliana']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut jumps from EP027 to EP028"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_147",
+      "title": "The Maid's Secret Identity",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 242.60s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 242.60s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_148",
+      "title": "The Poisoner's Trap",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 76.50s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 76.50s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "sent back for repair (attempt 2)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_149",
+      "title": "The Healer's Secret",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_068 (90% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['juliana']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut jumps from EP023 to EP024",
+        "cut skips 33.2s of EP024 between segments"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_150",
+      "title": "The Healer's Secret",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 142.30s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 142.30s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_151",
+      "title": "The Price of Freedom",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [
+        "evaluator judged the cross-episode combination incoherent"
+      ],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_034 (63% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment",
+        "incoherent_cross_episode"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['gerald', 'juliana']",
+        "continuity notes of the later episode reference the earlier one",
+        "hook window contains no dialogue or action (camera/sound only)",
+        "cut jumps from EP011 to EP012"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_152",
+      "title": "The Price of Freedom",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 60.06s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 60.06s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_154",
+      "title": "The Witchcraft Conspiracy",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 169.70s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 169.70s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_155",
+      "title": "The Duke's Return and Reckoning",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "repaired after validation feedback (attempt 1)",
+        "near-duplicate of PROMO_124 (73% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['alexander', 'rupert']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut jumps from EP043 to EP044"
+      ],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_156",
+      "title": "The Duke's Return and Reckoning",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 61.80s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 61.80s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_158",
+      "title": "The Duke Returns for Retribution",
+      "status": "rejected",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": false,
+        "source_verified": true,
+        "evidence_verified": false,
+        "segments_ordered": true,
+        "eligible": false,
+        "errors": [
+          "total duration 68.86s is outside the allowed 20-60s"
+        ],
+        "warnings": []
+      },
+      "rejection_reasons": [
+        "total duration 68.86s is outside the allowed 20-60s"
+      ],
+      "review_reasons": [],
+      "warnings": [
+        "sent back for repair (attempt 1)"
+      ],
+      "failure_cases": [
+        "duration_out_of_range"
+      ],
+      "deterministic_notes": [],
+      "unverified_evidence": []
+    },
+    {
+      "promo_id": "PROMO_159",
+      "title": "The Discarded Bride's Vow",
+      "status": "duplicate",
+      "origin": "cross_episode",
+      "validation": {
+        "timestamps_valid": true,
+        "duration_valid": true,
+        "source_verified": true,
+        "evidence_verified": true,
+        "segments_ordered": true,
+        "eligible": true,
+        "errors": [],
+        "warnings": []
+      },
+      "rejection_reasons": [],
+      "review_reasons": [],
+      "warnings": [
+        "near-duplicate of PROMO_011 (65% shared footage)"
+      ],
+      "failure_cases": [
+        "duplicate_moment"
+      ],
+      "deterministic_notes": [
+        "characters present in every segment: ['juliana']",
+        "continuity notes of the later episode reference the earlier one",
+        "cut skips 5.4s of EP003 between segments",
+        "cut jumps from EP003 to EP004"
+      ],
+      "unverified_evidence": []
+    }
+  ]
+}

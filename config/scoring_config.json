@@ -1,0 +1,48 @@
+{
+  "min_duration_seconds": 20,
+  "max_duration_seconds": 60,
+  "target_duration_seconds": 35,
+
+  "hook_window_seconds": 3,
+  "cliffhanger_window_seconds": 5,
+
+  "weights": {
+    "hook": 35,
+    "cliffhanger": 35,
+    "context": 20,
+    "pacing": 10
+  },
+
+  "minimum_scores": {
+    "hook": 18,
+    "cliffhanger": 18,
+    "context": 10,
+    "total": 60
+  },
+
+  "allow_multiple_segments": true,
+  "allow_cross_episode_segments": true,
+  "max_segments_per_promo": 3,
+
+  "prefer_continuous_segments": true,
+  "remove_near_duplicates": true,
+  "top_k_recommendations": 10,
+
+  "candidates_per_episode": 3,
+  "min_segment_seconds": 3.0,
+  "generation_repair_attempts": 2,
+  "evaluation_retry_attempts": 1,
+
+  "cross_episode_max_windows": 8,
+  "cross_episode_max_episode_gap": 1,
+  "cross_episode_candidates_per_window": 1,
+  "cross_episode_require_shared_character": true,
+
+  "multi_segment_penalty": 2.0,
+  "cross_episode_penalty": 2.0,
+  "near_duplicate_overlap_threshold": 0.5,
+
+  "min_confidence_for_auto_accept": 0.5,
+  "failure_case_strong_ratio": 0.7,
+  "failure_case_weak_ratio": 0.5
+}

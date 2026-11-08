@@ -1,0 +1,22 @@
+{
+  "max_upload_mb": 200,
+  "max_file_mb": 25,
+  "max_files": 5000,
+  "max_total_uncompressed_mb": 500,
+  "max_zip_depth": 3,
+  "max_compression_ratio": 200,
+  "frames_per_second": null,
+  "scene_bounds_tolerance_seconds": 0.5,
+  "output_dir": "outputs",
+  "raw_output_dir": "raw_outputs",
+  "feedback_path": "feedback/reviewer_feedback.jsonl",
+  "field_mapping": {
+    "episode": ["episode_id", "episode", "episode_number", "episode_no", "ep", "episode_title"],
+    "scene": ["scene_id", "scene", "scene_number", "scene_heading"],
+    "event_type": ["event_type", "type", "kind", "block_type"],
+    "speaker": ["speaker", "character", "name", "role"],
+    "text": ["text", "line", "dialogue", "content", "description", "action"],
+    "start": ["start_timestamp", "start", "start_time", "in", "timecode_in", "start_seconds"],
+    "end": ["end_timestamp", "end", "end_time", "out", "timecode_out", "end_seconds"]
+  }
+}

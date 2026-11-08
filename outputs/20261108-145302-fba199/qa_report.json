@@ -1,0 +1,749 @@
+{
+  "backend": "openai_compatible:gemini-3.1-flash-lite",
+  "episodes_processed": 50,
+  "candidates_total": 159,
+  "candidates_evaluated": 115,
+  "status_counts": {
+    "recommended": 10,
+    "ranked": 94,
+    "rejected": 44,
+    "duplicate": 11
+  },
+  "eligible_ranked": 104,
+  "passing_all_thresholds": 86,
+  "human_review_required": 22,
+  "score_stats": {
+    "mean": 81.53,
+    "median": 83.5,
+    "min": 43.5,
+    "max": 98.0
+  },
+  "origin_counts": {
+    "single_segment": 133,
+    "multi_segment_same_episode": 11,
+    "cross_episode": 15
+  },
+  "failure_case_counts": {
+    "Excessively long or short clip": 44,
+    "Duplicate promotional moment": 11,
+    "Strong hook but weak ending": 8,
+    "Cross-episode segments that do not form a coherent story": 3
+  },
+  "selected": [
+    {
+      "rank": 1,
+      "promo_id": "PROMO_089",
+      "title": "The Price of Pride",
+      "segments": "EP031 01:58.40-02:40.00",
+      "duration": 41.6,
+      "total": 98.0,
+      "why_selected": "The promo effectively uses a 'torture-the-hero' narrative structure, forcing the viewer to empathize with Juliana's loss of her mother's memory while simultaneously admiring her refusal to submit to Catherine's sadism.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 2,
+      "promo_id": "PROMO_104",
+      "title": "The Betrayal Revealed",
+      "segments": "EP036 01:39.00-02:18.80",
+      "duration": 39.8,
+      "total": 98.0,
+      "why_selected": "The clip succeeds by focusing on high-stakes emotional beats and a clear, ticking-clock conflict that forces the viewer to care about the outcome for the protagonist's wife.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 3,
+      "promo_id": "PROMO_006",
+      "title": "The Public Humiliation",
+      "segments": "EP002 00:00.00-00:23.70",
+      "duration": 23.7,
+      "total": 95.5,
+      "why_selected": "The clip leverages a classic 'wedding rejection' trope that provides immediate emotional stakes and clear character archetypes, making it highly effective for a microdrama audience.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 4,
+      "promo_id": "PROMO_008",
+      "title": "Discarded Daughter",
+      "segments": "EP003 00:23.10-01:04.50",
+      "duration": 41.4,
+      "total": 94.5,
+      "why_selected": "The clip relies on strong, clear archetypes—the cruel matriarch and the vulnerable, defiant daughter—to drive immediate emotional engagement.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 5,
+      "promo_id": "PROMO_043",
+      "title": "Defiance in the Mud",
+      "segments": "EP015 00:37.00-01:01.00",
+      "duration": 24.0,
+      "total": 94.5,
+      "why_selected": "The promo effectively uses the 'underdog' trope, pitting a dignified, vulnerable protagonist against cruel antagonists, which naturally elicits viewer empathy and investment in the outcome.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 6,
+      "promo_id": "PROMO_067",
+      "title": "Deadly Diagnosis",
+      "segments": "EP023 00:57.50-01:28.00",
+      "duration": 30.5,
+      "total": 94.5,
+      "why_selected": "The promo follows a classic investigative structure: discovery, analysis, accusation, and reveal. It maintains high tension throughout by focusing on the immediate threat to the Duchess's life.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 7,
+      "promo_id": "PROMO_075",
+      "title": "The Poisoned Accusation",
+      "segments": "EP027 01:47.80-02:30.50",
+      "duration": 42.7,
+      "total": 94.5,
+      "why_selected": "The clip effectively uses a 'ticking clock' scenario where the protagonist's attempt to help is weaponized against her, creating a high-tension narrative arc that is easy to grasp in under 45 seconds.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 8,
+      "promo_id": "PROMO_079",
+      "title": "Sentenced to the Gallows",
+      "segments": "EP028 01:35.00-02:18.50",
+      "duration": 43.5,
+      "total": 94.5,
+      "why_selected": "The clip functions as a perfect 'ticking clock' scenario. By establishing the secret identity, the antagonist's discovery, and the impending threat of death, it creates a high-tension narrative arc that keeps the viewer focused on the protagonist's survival.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 9,
+      "promo_id": "PROMO_124",
+      "title": "The Duke Returns",
+      "segments": "EP043 00:00.60-00:21.50",
+      "duration": 20.9,
+      "total": 94.5,
+      "why_selected": "The clip relies on a classic 'identity theft' trope executed with high-intensity performances and a clear, satisfying reversal of power that forces the viewer to wonder how the switch occurred.",
+      "human_review_required": false,
+      "review_reasons": []
+    },
+    {
+      "rank": 10,
+      "promo_id": "PROMO_014",
+      "title": "The Disowned Bride",
+      "segments": "EP005 00:06.80-00:28.90",
+      "duration": 22.1,
+      "total": 93.5,
+      "why_selected": "The clip effectively uses a classic 'disinheritance' trope to create immediate empathy for the protagonist and intense dislike for the antagonist, which is a strong driver for engagement in microdrama.",
+      "human_review_required": false,
+      "review_reasons": []
+    }
+  ],
+  "rejected": [
+    {
+      "promo_id": "PROMO_003",
+      "title": "The Ultimate Betrayal",
+      "segments": "EP001 00:33.80-00:41.20",
+      "reasons": [
+        "total duration 7.40s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_007",
+      "title": "The Public Humiliation",
+      "segments": "EP002 00:00.00-00:12.00",
+      "reasons": [
+        "total duration 12.00s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_010",
+      "title": "The Stranger's Proposal",
+      "segments": "EP003 01:09.90-02:25.75",
+      "reasons": [
+        "total duration 75.85s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_013",
+      "title": "The Discarded Bride's Vow",
+      "segments": "EP004 00:03.20-00:15.00; EP004 00:59.00-01:05.50",
+      "reasons": [
+        "total duration 18.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_016",
+      "title": "A Dangerous Protector",
+      "segments": "EP005 01:31.00-01:50.50",
+      "reasons": [
+        "total duration 19.50s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_023",
+      "title": "The Soldier's Secret",
+      "segments": "EP008 00:31.90-00:38.90",
+      "reasons": [
+        "total duration 7.00s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_024",
+      "title": "Healing the Scars of War",
+      "segments": "EP008 01:00.50-01:07.60",
+      "reasons": [
+        "total duration 7.10s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_025",
+      "title": "The Soldier's Secret",
+      "segments": "EP008 00:31.90-00:51.20",
+      "reasons": [
+        "total duration 19.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_026",
+      "title": "Healing the Scars of War",
+      "segments": "EP008 00:53.30-01:07.60",
+      "reasons": [
+        "total duration 14.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_029",
+      "title": "The Forbidden Cure",
+      "segments": "EP009 00:02.00-01:23.80",
+      "reasons": [
+        "total duration 81.80s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_038",
+      "title": "The Price of Freedom",
+      "segments": "EP013 00:54.00-01:07.00",
+      "reasons": [
+        "total duration 13.00s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_039",
+      "title": "A Bloody Discovery",
+      "segments": "EP013 01:43.00-01:58.88",
+      "reasons": [
+        "total duration 15.88s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_041",
+      "title": "A Vow of Vengeance",
+      "segments": "EP014 01:16.00-01:27.63",
+      "reasons": [
+        "total duration 11.63s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_047",
+      "title": "The Soldier's Secret",
+      "segments": "EP016 00:14.30-00:28.20",
+      "reasons": [
+        "total duration 13.90s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_048",
+      "title": "The Mastermind Revealed",
+      "segments": "EP016 00:40.80-00:54.40",
+      "reasons": [
+        "total duration 13.60s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_051",
+      "title": "Confessions by the Hearth",
+      "segments": "EP017 00:56.50-01:13.50",
+      "reasons": [
+        "total duration 17.00s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_052",
+      "title": "The Mystery of the Man I Married",
+      "segments": "EP017 01:36.50-01:56.00",
+      "reasons": [
+        "total duration 19.50s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_072",
+      "title": "The Poisoned Duchess",
+      "segments": "EP025 00:18.80-01:25.00",
+      "reasons": [
+        "total duration 66.20s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_080",
+      "title": "The Duchess's Accusation",
+      "segments": "EP028 00:28.40-00:48.00",
+      "reasons": [
+        "total duration 19.60s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_081",
+      "title": "The Noble Identity Revealed",
+      "segments": "EP028 01:26.50-01:40.80",
+      "reasons": [
+        "total duration 14.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_082",
+      "title": "Sentenced to the Gallows",
+      "segments": "EP028 02:02.00-02:18.50",
+      "reasons": [
+        "total duration 16.50s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_085",
+      "title": "The Witchcraft Frame-Up",
+      "segments": "EP029 00:37.70-00:56.50",
+      "reasons": [
+        "total duration 18.80s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_086",
+      "title": "A Penniless Veteran's Worth",
+      "segments": "EP029 01:09.80-01:23.00",
+      "reasons": [
+        "total duration 13.20s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_093",
+      "title": "The Final Strike",
+      "segments": "EP032 02:20.40-02:34.38",
+      "reasons": [
+        "total duration 13.98s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_110",
+      "title": "The Prisoner's Secret",
+      "segments": "EP038 00:07.50-00:23.20",
+      "reasons": [
+        "total duration 15.70s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_114",
+      "title": "The Duke Returns",
+      "segments": "EP039 00:50.00-01:08.50",
+      "reasons": [
+        "total duration 18.50s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_115",
+      "title": "The Silent Strike",
+      "segments": "EP039 00:29.60-00:49.20",
+      "reasons": [
+        "total duration 19.60s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_117",
+      "title": "The Wedding Trap",
+      "segments": "EP040 00:42.00-00:48.30; EP040 01:05.00-01:17.40",
+      "reasons": [
+        "total duration 18.70s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_120",
+      "title": "The Disgraced Bride's Revenge",
+      "segments": "EP041 00:17.50-01:36.09",
+      "reasons": [
+        "total duration 78.59s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_121",
+      "title": "The Wedding Explosion",
+      "segments": "EP041 01:21.00-01:36.09",
+      "reasons": [
+        "total duration 15.09s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_126",
+      "title": "The Traitor Exposed",
+      "segments": "EP043 01:00.00-01:17.60",
+      "reasons": [
+        "total duration 17.60s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_127",
+      "title": "No Escape",
+      "segments": "EP043 01:39.80-01:54.96",
+      "reasons": [
+        "total duration 15.16s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_129",
+      "title": "The Crown's Justice",
+      "segments": "EP044 00:00.00-00:19.30",
+      "reasons": [
+        "total duration 19.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_136",
+      "title": "The Scullery Maid's Penance",
+      "segments": "EP047 00:56.80-01:23.40; EP047 01:31.50-02:14.00",
+      "reasons": [
+        "total duration 69.10s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_141",
+      "title": "The Treasonous Pact",
+      "segments": "EP049 01:12.60-02:24.75",
+      "reasons": [
+        "total duration 72.15s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_143",
+      "title": "The Price of Discretion",
+      "segments": "EP050 00:16.80-01:20.00",
+      "reasons": [
+        "total duration 63.20s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_145",
+      "title": "The Rejected Bride's Vengeance",
+      "segments": "EP003 01:06.00-02:25.75",
+      "reasons": [
+        "segment 1: only 2.50s long (minimum segment length 3s)",
+        "total duration 79.75s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_147",
+      "title": "The Maid's Secret Identity",
+      "segments": "EP027 00:46.40-02:30.50; EP028 00:00.00-02:18.50",
+      "reasons": [
+        "total duration 242.60s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_148",
+      "title": "The Poisoner's Trap",
+      "segments": "EP027 01:55.10-02:30.50; EP028 01:37.40-02:18.50",
+      "reasons": [
+        "total duration 76.50s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_150",
+      "title": "The Healer's Secret",
+      "segments": "EP023 01:19.00-02:11.50; EP024 00:00.00-01:29.80",
+      "reasons": [
+        "total duration 142.30s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_152",
+      "title": "The Price of Freedom",
+      "segments": "EP011 01:33.20-01:52.75; EP012 00:46.70-01:27.21",
+      "reasons": [
+        "total duration 60.06s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_154",
+      "title": "The Witchcraft Conspiracy",
+      "segments": "EP030 00:33.40-00:47.30; EP031 00:04.20-02:40.00",
+      "reasons": [
+        "total duration 169.70s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_156",
+      "title": "The Duke's Return and Reckoning",
+      "segments": "EP043 00:00.00-00:15.80; EP044 00:24.40-01:10.40",
+      "reasons": [
+        "total duration 61.80s is outside the allowed 20-60s"
+      ]
+    },
+    {
+      "promo_id": "PROMO_158",
+      "title": "The Duke Returns for Retribution",
+      "segments": "EP042 00:17.90-00:28.80; EP043 00:57.00-01:54.96",
+      "reasons": [
+        "total duration 68.86s is outside the allowed 20-60s"
+      ]
+    }
+  ],
+  "duplicates": [
+    {
+      "promo_id": "PROMO_042",
+      "title": "The Garden's Defender",
+      "duplicate_of": "PROMO_043"
+    },
+    {
+      "promo_id": "PROMO_078",
+      "title": "The Noble Identity Revealed",
+      "duplicate_of": "PROMO_079"
+    },
+    {
+      "promo_id": "PROMO_087",
+      "title": "The Witchcraft Trap",
+      "duplicate_of": "PROMO_153"
+    },
+    {
+      "promo_id": "PROMO_125",
+      "title": "The Traitor Exposed",
+      "duplicate_of": "PROMO_157"
+    },
+    {
+      "promo_id": "PROMO_139",
+      "title": "Shadows of the Council",
+      "duplicate_of": "PROMO_140"
+    },
+    {
+      "promo_id": "PROMO_144",
+      "title": "The Rejected Bride's Vengeance",
+      "duplicate_of": "PROMO_009"
+    },
+    {
+      "promo_id": "PROMO_146",
+      "title": "The Poisoner's Trap",
+      "duplicate_of": "PROMO_075"
+    },
+    {
+      "promo_id": "PROMO_149",
+      "title": "The Healer's Secret",
+      "duplicate_of": "PROMO_068"
+    },
+    {
+      "promo_id": "PROMO_151",
+      "title": "The Price of Freedom",
+      "duplicate_of": "PROMO_034"
+    },
+    {
+      "promo_id": "PROMO_155",
+      "title": "The Duke's Return and Reckoning",
+      "duplicate_of": "PROMO_124"
+    },
+    {
+      "promo_id": "PROMO_159",
+      "title": "The Discarded Bride's Vow",
+      "duplicate_of": "PROMO_011"
+    }
+  ],
+  "below_threshold": [
+    {
+      "promo_id": "PROMO_054",
+      "title": "Escape from the Inferno",
+      "total": 74.0,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_028",
+      "title": "The Forbidden Cure",
+      "total": 72.5,
+      "reasons": [
+        "cliffhanger score 17.5 below minimum 18"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_057",
+      "title": "Ruins and Resilience",
+      "total": 71.5,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_019",
+      "title": "The Silent Protector",
+      "total": 70.5,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_053",
+      "title": "The Burning Vow",
+      "total": 69.0,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_101",
+      "title": "Betrayed by the Crown",
+      "total": 64.5,
+      "reasons": [
+        "hook score 17.5 below minimum 18"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_105",
+      "title": "The Price of Defiance",
+      "total": 63.5,
+      "reasons": [
+        "hook score 14.0 below minimum 18"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_106",
+      "title": "A Feast for the Wicked",
+      "total": 63.5,
+      "reasons": [
+        "cliffhanger score 17.5 below minimum 18"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_032",
+      "title": "The Planted Evidence",
+      "total": 62.0,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_018",
+      "title": "A New Beginning",
+      "total": 61.5,
+      "reasons": [
+        "cliffhanger score 7.0 below minimum 18"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_109",
+      "title": "The Prisoner's Secret",
+      "total": 61.0,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_017",
+      "title": "The Ruined Life",
+      "total": 59.5,
+      "reasons": [
+        "cliffhanger score 17.5 below minimum 18",
+        "total score 59.5 below minimum 60"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_031",
+      "title": "Medicine of the Heart",
+      "total": 58.5,
+      "reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 58.5 below minimum 60"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_044",
+      "title": "Haunted by the Past",
+      "total": 57.0,
+      "reasons": [
+        "cliffhanger score 14.0 below minimum 18",
+        "total score 57.0 below minimum 60"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_021",
+      "title": "The Soldier's Secret",
+      "total": 55.0,
+      "reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 55.0 below minimum 60"
+      ],
+      "failure_cases": [
+        "strong_hook_weak_ending"
+      ]
+    },
+    {
+      "promo_id": "PROMO_050",
+      "title": "Confessions by the Hearth",
+      "total": 53.5,
+      "reasons": [
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 53.5 below minimum 60"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_022",
+      "title": "Healing the Scars of War",
+      "total": 44.5,
+      "reasons": [
+        "hook score 14.0 below minimum 18",
+        "cliffhanger score 10.5 below minimum 18",
+        "total score 44.5 below minimum 60"
+      ],
+      "failure_cases": []
+    },
+    {
+      "promo_id": "PROMO_058",
+      "title": "The Vow to Begin Again",
+      "total": 43.5,
+      "reasons": [
+        "hook score 7.0 below minimum 18",
+        "cliffhanger score 17.5 below minimum 18",
+        "total score 43.5 below minimum 60"
+      ],
+      "failure_cases": []
+    }
+  ],
+  "disclaimer": "Scores are editorial quality estimates from script text. They are not predictions of views, clicks or conversions; no performance data was used.",
+  "errors": [],
+  "notes": [],
+  "llm_calls": 212
+}

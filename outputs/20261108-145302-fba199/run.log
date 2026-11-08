@@ -1,0 +1,295 @@
+2026-11-08 14:53:02,949 INFO    core.pipeline: run 20261108-145302-fba199 started with 1 upload(s)
+2026-11-08 14:53:02,950 INFO    core.pipeline: [File processing] 0% 1 upload(s)
+2026-11-08 14:53:03,012 INFO    core.pipeline: [File processing] 100% 50 screenplay file(s), 0 error(s)
+2026-11-08 14:53:03,012 INFO    core.pipeline: [Episode extraction] 100% 50 episode(s) detected
+2026-11-08 14:53:03,012 INFO    core.pipeline: [Event normalisation] 100% 3727 events (0 without valid timestamps)
+2026-11-08 14:53:03,696 WARNING llm.provider: provider rejected seed; retrying without it
+2026-11-08 14:53:08,508 INFO    core.pipeline: [Candidate generation] 2% 1/50 - EP001
+2026-11-08 14:53:08,939 INFO    core.pipeline: [Candidate generation] 4% 2/50 - EP002
+2026-11-08 14:53:14,178 INFO    core.pipeline: [Candidate generation] 6% 3/50 - EP003
+2026-11-08 14:53:14,183 INFO    core.pipeline: [Candidate generation] 8% 4/50 - EP004
+2026-11-08 14:53:16,820 INFO    core.pipeline: [Candidate generation] 10% 5/50 - EP006
+2026-11-08 14:53:19,103 INFO    core.pipeline: [Candidate generation] 12% 6/50 - EP007
+2026-11-08 14:53:19,629 INFO    core.pipeline: [Candidate generation] 14% 7/50 - EP005
+2026-11-08 14:53:24,664 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:53:25,021 INFO    core.pipeline: [Candidate generation] 16% 8/50 - EP009
+2026-11-08 14:53:25,374 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:53:27,810 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:53:28,608 INFO    core.pipeline: [Candidate generation] 18% 9/50 - EP008
+2026-11-08 14:53:29,017 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:53:31,480 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:53:32,229 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:53:35,842 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:53:40,593 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:53:44,270 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:53:57,021 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 14:54:00,712 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 14:54:29,478 INFO    core.pipeline: [Candidate generation] 20% 10/50 - EP010
+2026-11-08 14:54:31,580 INFO    core.pipeline: [Candidate generation] 22% 11/50 - EP012
+2026-11-08 14:54:33,048 INFO    core.pipeline: [Candidate generation] 24% 12/50 - EP011
+2026-11-08 14:54:36,040 INFO    core.pipeline: [Candidate generation] 26% 13/50 - EP013
+2026-11-08 14:54:37,546 INFO    core.pipeline: [Candidate generation] 28% 14/50 - EP014
+2026-11-08 14:54:38,408 INFO    core.pipeline: [Candidate generation] 30% 15/50 - EP015
+2026-11-08 14:54:42,378 INFO    core.pipeline: [Candidate generation] 32% 16/50 - EP016
+2026-11-08 14:54:43,367 INFO    core.pipeline: [Candidate generation] 34% 17/50 - EP017
+2026-11-08 14:54:45,066 INFO    core.pipeline: [Candidate generation] 36% 18/50 - EP018
+2026-11-08 14:54:46,681 INFO    core.pipeline: [Candidate generation] 38% 19/50 - EP019
+2026-11-08 14:54:47,616 INFO    core.pipeline: [Candidate generation] 40% 20/50 - EP020
+2026-11-08 14:54:48,028 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:54:49,122 INFO    core.pipeline: [Candidate generation] 42% 21/50 - EP021
+2026-11-08 14:54:49,499 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:54:50,485 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:54:53,821 INFO    core.pipeline: [Candidate generation] 44% 22/50 - EP023
+2026-11-08 14:54:54,318 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:54:54,920 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:54:56,750 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:55:01,219 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:55:03,294 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:55:11,625 INFO    core.pipeline: [Candidate generation] 46% 23/50 - EP024
+2026-11-08 14:55:16,356 INFO    core.pipeline: [Candidate generation] 48% 24/50 - EP025
+2026-11-08 14:55:18,690 INFO    core.pipeline: [Candidate generation] 50% 25/50 - EP026
+2026-11-08 14:55:21,242 INFO    core.pipeline: [Candidate generation] 52% 26/50 - EP027
+2026-11-08 14:55:21,655 INFO    core.pipeline: [Candidate generation] 54% 27/50 - EP022
+2026-11-08 14:55:26,829 INFO    core.pipeline: [Candidate generation] 56% 28/50 - EP028
+2026-11-08 14:55:26,977 INFO    core.pipeline: [Candidate generation] 58% 29/50 - EP029
+2026-11-08 14:55:29,049 INFO    core.pipeline: [Candidate generation] 60% 30/50 - EP031
+2026-11-08 14:55:29,451 INFO    core.pipeline: [Candidate generation] 62% 31/50 - EP030
+2026-11-08 14:55:32,290 INFO    core.pipeline: [Candidate generation] 64% 32/50 - EP033
+2026-11-08 14:55:34,443 INFO    core.pipeline: [Candidate generation] 66% 33/50 - EP032
+2026-11-08 14:55:34,760 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:55:35,218 INFO    core.pipeline: [Candidate generation] 68% 34/50 - EP034
+2026-11-08 14:55:35,620 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:55:37,169 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:55:38,036 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:55:41,518 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:55:42,414 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:55:49,952 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:55:52,926 INFO    core.pipeline: [Candidate generation] 70% 35/50 - EP036
+2026-11-08 14:55:53,371 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:55:55,771 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:56:00,271 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:56:08,982 INFO    core.pipeline: [Candidate generation] 72% 36/50 - EP035
+2026-11-08 14:56:11,072 INFO    core.pipeline: [Candidate generation] 74% 37/50 - EP037
+2026-11-08 14:56:11,674 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:56:15,735 INFO    core.pipeline: [Candidate generation] 76% 38/50 - EP038
+2026-11-08 14:56:16,465 INFO    core.pipeline: [Candidate generation] 78% 39/50 - EP039
+2026-11-08 14:56:20,537 INFO    core.pipeline: [Candidate generation] 80% 40/50 - EP040
+2026-11-08 14:56:21,260 INFO    core.pipeline: [Candidate generation] 82% 41/50 - EP041
+2026-11-08 14:56:22,737 INFO    core.pipeline: [Candidate generation] 84% 42/50 - EP042
+2026-11-08 14:56:26,821 INFO    core.pipeline: [Candidate generation] 86% 43/50 - EP043
+2026-11-08 14:56:27,134 INFO    core.pipeline: [Candidate generation] 88% 44/50 - EP044
+2026-11-08 14:56:29,374 INFO    core.pipeline: [Candidate generation] 90% 45/50 - EP045
+2026-11-08 14:56:29,628 INFO    core.pipeline: [Candidate generation] 92% 46/50 - EP046
+2026-11-08 14:56:29,740 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:56:29,989 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:56:32,214 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:56:32,364 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:56:36,569 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:56:36,768 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:56:44,942 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:56:45,102 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:57:01,332 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 14:57:01,526 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 14:57:33,870 INFO    core.pipeline: [Candidate generation] 94% 47/50 - EP048
+2026-11-08 14:57:35,804 INFO    core.pipeline: [Candidate generation] 96% 48/50 - EP047
+2026-11-08 14:57:38,582 INFO    core.pipeline: [Candidate generation] 98% 49/50 - EP049
+2026-11-08 14:57:39,785 INFO    core.pipeline: [Candidate generation] 100% 50/50 - EP050
+2026-11-08 14:57:39,786 INFO    core.pipeline: [Candidate validation] 100% 107 valid, 36 rejected
+2026-11-08 14:57:42,727 INFO    core.pipeline: [Promo evaluation] 1% 1/107 - PROMO_002
+2026-11-08 14:57:43,180 INFO    core.pipeline: [Promo evaluation] 2% 2/107 - PROMO_001
+2026-11-08 14:57:45,455 INFO    core.pipeline: [Promo evaluation] 3% 3/107 - PROMO_004
+2026-11-08 14:57:46,151 INFO    core.pipeline: [Promo evaluation] 4% 4/107 - PROMO_005
+2026-11-08 14:57:48,066 INFO    core.pipeline: [Promo evaluation] 5% 5/107 - PROMO_006
+2026-11-08 14:57:49,015 INFO    core.pipeline: [Promo evaluation] 6% 6/107 - PROMO_008
+2026-11-08 14:57:50,814 INFO    core.pipeline: [Promo evaluation] 7% 7/107 - PROMO_009
+2026-11-08 14:57:51,852 INFO    core.pipeline: [Promo evaluation] 7% 8/107 - PROMO_011
+2026-11-08 14:57:52,240 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:57:53,629 INFO    core.pipeline: [Promo evaluation] 8% 9/107 - PROMO_012
+2026-11-08 14:57:54,674 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:57:56,967 INFO    core.pipeline: [Promo evaluation] 9% 10/107 - PROMO_015
+2026-11-08 14:57:57,317 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:57:58,993 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:57:59,915 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:58:07,498 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:58:10,702 INFO    core.pipeline: [Promo evaluation] 10% 11/107 - PROMO_014
+2026-11-08 14:58:11,986 INFO    core.pipeline: [Promo evaluation] 11% 12/107 - PROMO_017
+2026-11-08 14:58:14,368 INFO    core.pipeline: [Promo evaluation] 12% 13/107 - PROMO_018
+2026-11-08 14:58:15,121 INFO    core.pipeline: [Promo evaluation] 13% 14/107 - PROMO_019
+2026-11-08 14:58:17,223 INFO    core.pipeline: [Promo evaluation] 14% 15/107 - PROMO_020
+2026-11-08 14:58:20,036 INFO    core.pipeline: [Promo evaluation] 15% 16/107 - PROMO_022
+2026-11-08 14:58:20,389 INFO    core.pipeline: [Promo evaluation] 16% 17/107 - PROMO_021
+2026-11-08 14:58:22,600 INFO    core.pipeline: [Promo evaluation] 17% 18/107 - PROMO_027
+2026-11-08 14:58:23,238 INFO    core.pipeline: [Promo evaluation] 18% 19/107 - PROMO_028
+2026-11-08 14:58:25,420 INFO    core.pipeline: [Promo evaluation] 19% 20/107 - PROMO_030
+2026-11-08 14:58:25,698 INFO    core.pipeline: [Promo evaluation] 20% 21/107 - PROMO_031
+2026-11-08 14:58:28,094 INFO    core.pipeline: [Promo evaluation] 21% 22/107 - PROMO_033
+2026-11-08 14:58:28,234 INFO    core.pipeline: [Promo evaluation] 21% 23/107 - PROMO_032
+2026-11-08 14:58:28,412 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:58:28,588 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:58:30,717 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:58:30,917 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:58:35,092 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:58:35,297 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:58:43,433 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:58:45,535 INFO    core.pipeline: [Promo evaluation] 22% 24/107 - PROMO_035
+2026-11-08 14:58:45,863 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:58:48,187 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:58:54,974 INFO    core.pipeline: [Promo evaluation] 23% 25/107 - PROMO_036
+2026-11-08 14:58:55,348 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:58:57,716 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:58:59,756 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 14:59:02,127 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:59:12,851 INFO    core.pipeline: [Promo evaluation] 24% 26/107 - PROMO_037
+2026-11-08 14:59:15,822 INFO    core.pipeline: [Promo evaluation] 25% 27/107 - PROMO_040
+2026-11-08 14:59:18,626 INFO    core.pipeline: [Promo evaluation] 26% 28/107 - PROMO_042
+2026-11-08 14:59:21,708 INFO    core.pipeline: [Promo evaluation] 27% 29/107 - PROMO_043
+2026-11-08 14:59:23,939 INFO    core.pipeline: [Promo evaluation] 28% 30/107 - PROMO_044
+2026-11-08 14:59:26,696 INFO    core.pipeline: [Promo evaluation] 29% 31/107 - PROMO_045
+2026-11-08 14:59:29,266 INFO    core.pipeline: [Promo evaluation] 30% 32/107 - PROMO_046
+2026-11-08 14:59:31,698 INFO    core.pipeline: [Promo evaluation] 31% 33/107 - PROMO_049
+2026-11-08 14:59:32,399 INFO    core.pipeline: [Promo evaluation] 32% 34/107 - PROMO_034
+2026-11-08 14:59:34,316 INFO    core.pipeline: [Promo evaluation] 33% 35/107 - PROMO_050
+2026-11-08 14:59:35,035 INFO    core.pipeline: [Promo evaluation] 34% 36/107 - PROMO_053
+2026-11-08 14:59:36,659 INFO    core.pipeline: [Promo evaluation] 35% 37/107 - PROMO_054
+2026-11-08 14:59:37,965 INFO    core.pipeline: [Promo evaluation] 36% 38/107 - PROMO_055
+2026-11-08 14:59:41,255 INFO    core.pipeline: [Promo evaluation] 36% 39/107 - PROMO_057
+2026-11-08 14:59:41,696 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:59:41,762 INFO    core.pipeline: [Promo evaluation] 37% 40/107 - PROMO_056
+2026-11-08 14:59:42,148 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 14:59:44,117 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:59:44,511 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 14:59:48,444 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:59:48,968 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 14:59:57,356 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 14:59:59,002 INFO    core.pipeline: [Promo evaluation] 38% 41/107 - PROMO_058
+2026-11-08 14:59:59,454 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:00:01,909 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:00:08,895 INFO    core.pipeline: [Promo evaluation] 39% 42/107 - PROMO_060
+2026-11-08 15:00:11,519 INFO    core.pipeline: [Promo evaluation] 40% 43/107 - PROMO_061
+2026-11-08 15:00:14,684 INFO    core.pipeline: [Promo evaluation] 41% 44/107 - PROMO_062
+2026-11-08 15:00:15,785 INFO    core.pipeline: [Promo evaluation] 42% 45/107 - PROMO_059
+2026-11-08 15:00:17,285 INFO    core.pipeline: [Promo evaluation] 43% 46/107 - PROMO_063
+2026-11-08 15:00:18,854 INFO    core.pipeline: [Promo evaluation] 44% 47/107 - PROMO_064
+2026-11-08 15:00:20,215 INFO    core.pipeline: [Promo evaluation] 45% 48/107 - PROMO_065
+2026-11-08 15:00:21,872 INFO    core.pipeline: [Promo evaluation] 46% 49/107 - PROMO_066
+2026-11-08 15:00:22,669 INFO    core.pipeline: [Promo evaluation] 47% 50/107 - PROMO_067
+2026-11-08 15:00:24,836 INFO    core.pipeline: [Promo evaluation] 48% 51/107 - PROMO_068
+2026-11-08 15:00:25,266 INFO    core.pipeline: [Promo evaluation] 49% 52/107 - PROMO_069
+2026-11-08 15:00:27,499 INFO    core.pipeline: [Promo evaluation] 50% 53/107 - PROMO_070
+2026-11-08 15:00:27,841 INFO    core.pipeline: [Promo evaluation] 50% 54/107 - PROMO_071
+2026-11-08 15:00:30,470 INFO    core.pipeline: [Promo evaluation] 51% 55/107 - PROMO_074
+2026-11-08 15:00:30,656 INFO    core.pipeline: [Promo evaluation] 52% 56/107 - PROMO_073
+2026-11-08 15:00:31,091 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:00:33,312 INFO    core.pipeline: [Promo evaluation] 53% 57/107 - PROMO_075
+2026-11-08 15:00:33,718 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:00:35,856 INFO    core.pipeline: [Promo evaluation] 54% 58/107 - PROMO_076
+2026-11-08 15:00:36,153 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:00:36,179 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:00:38,601 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:00:40,537 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:00:42,964 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:00:48,869 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:00:51,359 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:01:07,949 INFO    core.pipeline: [Promo evaluation] 55% 59/107 - PROMO_077
+2026-11-08 15:01:10,233 INFO    core.pipeline: [Promo evaluation] 56% 60/107 - PROMO_078
+2026-11-08 15:01:10,599 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:01:11,349 INFO    core.pipeline: [Promo evaluation] 57% 61/107 - PROMO_079
+2026-11-08 15:01:14,058 INFO    core.pipeline: [Promo evaluation] 58% 62/107 - PROMO_084
+2026-11-08 15:01:15,477 INFO    core.pipeline: [Promo evaluation] 59% 63/107 - PROMO_083
+2026-11-08 15:01:17,177 INFO    core.pipeline: [Promo evaluation] 60% 64/107 - PROMO_087
+2026-11-08 15:01:18,102 INFO    core.pipeline: [Promo evaluation] 61% 65/107 - PROMO_088
+2026-11-08 15:01:20,032 INFO    core.pipeline: [Promo evaluation] 62% 66/107 - PROMO_089
+2026-11-08 15:01:21,043 INFO    core.pipeline: [Promo evaluation] 63% 67/107 - PROMO_090
+2026-11-08 15:01:22,822 INFO    core.pipeline: [Promo evaluation] 64% 68/107 - PROMO_091
+2026-11-08 15:01:25,443 INFO    core.pipeline: [Promo evaluation] 64% 69/107 - PROMO_094
+2026-11-08 15:01:26,115 INFO    core.pipeline: [Promo evaluation] 65% 70/107 - PROMO_092
+2026-11-08 15:01:28,125 INFO    core.pipeline: [Promo evaluation] 66% 71/107 - PROMO_095
+2026-11-08 15:01:28,833 INFO    core.pipeline: [Promo evaluation] 67% 72/107 - PROMO_096
+2026-11-08 15:01:29,162 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:01:30,873 INFO    core.pipeline: [Promo evaluation] 68% 73/107 - PROMO_097
+2026-11-08 15:01:31,489 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:01:33,633 INFO    core.pipeline: [Promo evaluation] 69% 74/107 - PROMO_099
+2026-11-08 15:01:34,033 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:01:36,004 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:01:36,490 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:01:40,789 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:01:44,395 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:01:49,115 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:02:00,746 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 15:02:08,076 INFO    core.pipeline: [Promo evaluation] 70% 75/107 - PROMO_100
+2026-11-08 15:02:10,722 INFO    core.pipeline: [Promo evaluation] 71% 76/107 - PROMO_101
+2026-11-08 15:02:13,304 INFO    core.pipeline: [Promo evaluation] 72% 77/107 - PROMO_102
+2026-11-08 15:02:18,814 INFO    core.pipeline: [Promo evaluation] 73% 78/107 - PROMO_103
+2026-11-08 15:02:21,169 INFO    core.pipeline: [Promo evaluation] 74% 79/107 - PROMO_104
+2026-11-08 15:02:24,232 INFO    core.pipeline: [Promo evaluation] 75% 80/107 - PROMO_105
+2026-11-08 15:02:26,776 INFO    core.pipeline: [Promo evaluation] 76% 81/107 - PROMO_106
+2026-11-08 15:02:29,830 INFO    core.pipeline: [Promo evaluation] 77% 82/107 - PROMO_107
+2026-11-08 15:02:32,649 INFO    core.pipeline: [Promo evaluation] 78% 83/107 - PROMO_108
+2026-11-08 15:02:33,482 INFO    core.pipeline: [Promo evaluation] 79% 84/107 - PROMO_098
+2026-11-08 15:02:36,751 INFO    core.pipeline: [Promo evaluation] 79% 85/107 - PROMO_111
+2026-11-08 15:02:37,141 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:02:37,798 INFO    core.pipeline: [Promo evaluation] 80% 86/107 - PROMO_109
+2026-11-08 15:02:38,164 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:02:41,465 INFO    core.pipeline: [Promo evaluation] 81% 87/107 - PROMO_112
+2026-11-08 15:02:41,838 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:02:43,325 INFO    core.pipeline: [Promo evaluation] 82% 88/107 - PROMO_113
+2026-11-08 15:02:43,621 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:02:44,257 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:02:46,030 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:02:48,593 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:02:50,383 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:02:58,786 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:03:01,172 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:03:18,004 INFO    core.pipeline: [Promo evaluation] 83% 89/107 - PROMO_118
+2026-11-08 15:03:20,128 INFO    core.pipeline: [Promo evaluation] 84% 90/107 - PROMO_116
+2026-11-08 15:03:21,110 INFO    core.pipeline: [Promo evaluation] 85% 91/107 - PROMO_119
+2026-11-08 15:03:23,010 INFO    core.pipeline: [Promo evaluation] 86% 92/107 - PROMO_122
+2026-11-08 15:03:23,438 INFO    core.pipeline: [Promo evaluation] 87% 93/107 - PROMO_123
+2026-11-08 15:03:26,422 INFO    core.pipeline: [Promo evaluation] 88% 94/107 - PROMO_125
+2026-11-08 15:03:26,559 INFO    core.pipeline: [Promo evaluation] 89% 95/107 - PROMO_124
+2026-11-08 15:03:29,377 INFO    core.pipeline: [Promo evaluation] 90% 96/107 - PROMO_128
+2026-11-08 15:03:29,767 INFO    core.pipeline: [Promo evaluation] 91% 97/107 - PROMO_130
+2026-11-08 15:03:32,136 INFO    core.pipeline: [Promo evaluation] 92% 98/107 - PROMO_132
+2026-11-08 15:03:32,885 INFO    core.pipeline: [Promo evaluation] 93% 99/107 - PROMO_131
+2026-11-08 15:03:34,500 INFO    core.pipeline: [Promo evaluation] 93% 100/107 - PROMO_133
+2026-11-08 15:03:35,481 INFO    core.pipeline: [Promo evaluation] 94% 101/107 - PROMO_134
+2026-11-08 15:03:37,574 INFO    core.pipeline: [Promo evaluation] 95% 102/107 - PROMO_135
+2026-11-08 15:03:38,185 INFO    core.pipeline: [Promo evaluation] 96% 103/107 - PROMO_137
+2026-11-08 15:03:40,519 INFO    core.pipeline: [Promo evaluation] 97% 104/107 - PROMO_138
+2026-11-08 15:03:40,903 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:03:41,286 INFO    core.pipeline: [Promo evaluation] 98% 105/107 - PROMO_139
+2026-11-08 15:03:41,588 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:03:43,335 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:03:43,899 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:03:47,702 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:03:48,316 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:03:56,056 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:03:56,646 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:04:14,836 INFO    core.pipeline: [Promo evaluation] 99% 106/107 - PROMO_140
+2026-11-08 15:04:15,503 INFO    core.pipeline: [Promo evaluation] 100% 107/107 - PROMO_142
+2026-11-08 15:04:19,145 INFO    core.pipeline: [Cross-episode analysis] 12% 1/8 - EP002+EP003
+2026-11-08 15:04:23,450 INFO    core.pipeline: [Cross-episode analysis] 25% 2/8 - EP023+EP024
+2026-11-08 15:04:24,865 INFO    core.pipeline: [Cross-episode analysis] 38% 3/8 - EP027+EP028
+2026-11-08 15:04:27,432 INFO    core.pipeline: [Cross-episode analysis] 50% 4/8 - EP011+EP012
+2026-11-08 15:04:28,599 INFO    core.pipeline: [Cross-episode analysis] 62% 5/8 - EP030+EP031
+2026-11-08 15:04:31,213 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:04:31,469 INFO    core.pipeline: [Cross-episode analysis] 75% 6/8 - EP043+EP044
+2026-11-08 15:04:31,904 WARNING llm.provider: LLM HTTP 429 (attempt 1/6)
+2026-11-08 15:04:33,669 WARNING llm.provider: LLM HTTP 429 (attempt 2/6)
+2026-11-08 15:04:36,168 INFO    core.pipeline: [Cross-episode analysis] 88% 7/8 - EP003+EP004
+2026-11-08 15:04:38,108 WARNING llm.provider: LLM HTTP 429 (attempt 3/6)
+2026-11-08 15:04:46,402 WARNING llm.provider: LLM HTTP 429 (attempt 4/6)
+2026-11-08 15:05:02,721 WARNING llm.provider: LLM HTTP 429 (attempt 5/6)
+2026-11-08 15:05:34,822 INFO    core.pipeline: [Cross-episode analysis] 100% 8/8 - EP042+EP043
+2026-11-08 15:05:37,799 INFO    core.pipeline: [Promo evaluation] 12% 1/8 - PROMO_146
+2026-11-08 15:05:37,870 INFO    core.pipeline: [Promo evaluation] 25% 2/8 - PROMO_144
+2026-11-08 15:05:40,575 INFO    core.pipeline: [Promo evaluation] 38% 3/8 - PROMO_149
+2026-11-08 15:05:41,131 INFO    core.pipeline: [Promo evaluation] 50% 4/8 - PROMO_151
+2026-11-08 15:05:43,627 INFO    core.pipeline: [Promo evaluation] 62% 5/8 - PROMO_153
+2026-11-08 15:05:44,164 INFO    core.pipeline: [Promo evaluation] 75% 6/8 - PROMO_155
+2026-11-08 15:05:46,290 INFO    core.pipeline: [Promo evaluation] 88% 7/8 - PROMO_157
+2026-11-08 15:05:47,064 INFO    core.pipeline: [Promo evaluation] 100% 8/8 - PROMO_159
+2026-11-08 15:05:47,065 INFO    core.pipeline: [Final ranking] 20% ranking and de-duplicating
+2026-11-08 15:05:47,072 INFO    core.pipeline: [Final ranking] 100% 104 ranked
+2026-11-08 15:05:47,224 INFO    core.pipeline: [Export] 100% artifacts written to /Users/rohinr/Documents/kuku/promo_discovery_engine/outputs/20261108-145302-fba199
+2026-11-08 15:05:47,224 INFO    core.pipeline: run 20261108-145302-fba199 finished in 764.3s
